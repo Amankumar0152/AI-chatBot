@@ -1,11 +1,11 @@
-# 🤖 Chatbot Application (Spring Boot + Gemini API)
+# Chatbot Application (Spring Boot + Gemini API)
 
 A fully functional **AI-powered Chatbot backend** built using **Java**, **Spring Boot**, and **Google Gemini API**.  
 This project processes user messages, sends them to Gemini, receives intelligent AI responses, and stores the conversation in a database.
 
 ---
 
-## ✨ Features
+## Features
 
 ✔️ AI Chatbot using **Google Gemini API**  
 ✔️ Clean **REST API** architecture  
@@ -18,7 +18,7 @@ This project processes user messages, sends them to Gemini, receives intelligent
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 ### **Backend Stack**
 - **Java 17**
@@ -34,5 +34,5 @@ This project processes user messages, sends them to Gemini, receives intelligent
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
