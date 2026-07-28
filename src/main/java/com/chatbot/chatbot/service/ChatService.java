@@ -20,7 +20,7 @@ public class ChatService {
 
     public String getBotReply(String userMessage) {
 
-        String url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + apiKey;
+        String url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key=" + apiKey;
 
 
 //        JSON blocks
